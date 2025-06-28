@@ -1,0 +1,26 @@
+{
+  "name": "ivan-ledesma-website",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Personal website of Ivan Ledesma - Data Science student and aspiring data engineer",
+  "author": "Ivan Ledesma",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo 'Site is already built in docs/ folder'",
+    "build": "echo 'Site is already built in docs/ folder'",
+    "preview": "echo 'Site is already built in docs/ folder'"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "personal-website",
+    "portfolio",
+    "blog",
+    "data-science",
+    "astro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/repository-name.git"
+  },
+  "homepage": "https://yourusername.github.io/repository-name"
+} 
